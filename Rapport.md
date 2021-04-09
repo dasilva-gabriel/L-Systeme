@@ -1,11 +1,11 @@
 Rapport du projet L-Systèmes
 ===
 
-## Identifiants
+## Contributeurs
 
-DEPREZ Hugo - 71802209 - @deprez
+DEPREZ Hugo
 
-DA SILVA Gabriel - 71807907 - @dasilvag
+DA SILVA Gabriel
 
 ## Fonctionnalités
 
