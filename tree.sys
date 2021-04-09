@@ -1,0 +1,15 @@
+## Fig 4 pdf
+# axiome
+A
+
+
+
+#empty line
+#rules
+A A[PA]A[MA]A
+
+#interpretation
+
+A L100
+P T25
+M T-25
